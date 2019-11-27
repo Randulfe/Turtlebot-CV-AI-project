@@ -3,6 +3,10 @@
 The pupose of this uni project was to develop a robotics system using ROS (Robotic Operating System) to control a [Turtlebot 2 Robot](https://www.turtlebot.com/). This project was tested on actual robots as part of the assignment process and evaluated in terms of actual robotic performance. 
 
 ## The objective
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
 The main specifications were the following: 
           * The turtlebot would start in a random position inside a maze.
           * The 2D map of the maze will be provided.
