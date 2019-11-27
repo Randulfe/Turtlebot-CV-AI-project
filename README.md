@@ -4,7 +4,7 @@ The pupose of this uni project was to develop a robotics system using ROS (Robot
 
 ## The objective
 The main specifications were the following: 
- Markup : * The turtlebot would start in a random position inside a maze.
+          * The turtlebot would start in a random position inside a maze.
           * The 2D map of the maze will be provided.
           * The robot will then have to explore the space looking for pictures left randomly with an AR tag in the most efficient way that it can explore the given map. 
           * These pictures will have either a cluedo character or a weapon from the famous game. 
