@@ -1,4 +1,4 @@
-# Computer Vision + Navigation uni project to control Turtle Bots
+# Using Turtle Bots in Navigation and Computer Vision to find Cluedo Characters and Weapons in a laberynth
 
 The pupose of this uni project was to develop a robotics system using ROS (Robotic Operating System) to control a [Turtlebot 2 Robot](https://www.turtlebot.com/). This project was tested on actual robots as part of the assignment process and evaluated in terms of actual robotic performance. 
 
@@ -22,3 +22,6 @@ Once the CV part had run, we relaunched the navigation algorithm and the process
 
 ## Our outcome
 We did pretty well in this assignment. We managed to find 3/4 pictures within the time limit given. The only problem we faced was that the navigation algortithm got bugged and the end turning around continuosly not sure whether it remembered the position of one of the previous AR markers in the map.
+
+### Instructions
+If you want to explore the algorithm and maybe implement it in your own turtle bot, you will need installed for the set up `Rviz`and `ROS`. All the code to be exected is [in this Python file](https://github.com/Randulfe/Turtlebot-CV-AI-project/blob/master/finalcode.py)
